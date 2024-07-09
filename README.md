@@ -1,5 +1,11 @@
 # Dormitory_project
 The aim of the project is to create an online check-in platform for student dormitory.
+Backend part is made 
+
+<h1>Installation</h1>
+
+Before you run the application make sure that the following steps are done:
+1. Make 
 
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/a18b6ef7-6788-49c3-ba49-8f8b24dc0a0d)
 
