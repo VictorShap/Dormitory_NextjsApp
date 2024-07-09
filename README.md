@@ -45,5 +45,6 @@ py -m pip install schedule</code>
 <code>npm install
 npm run dev</code>
 
-<h3>You can use admin credentials in order to get full access to the web application</h3></br>
+> [!IMPORTANT]
+> You can use admin credentials in order to get full access to the web application</h3></br>
 Admin credentials: ns@example.com | a1234567
