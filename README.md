@@ -1,5 +1,12 @@
 # Dormitory_project
-The aim of the project is to create an online check-in platform for student dormitory.
+<h3>The aim of the project is to create an online check-in platform for student dormitory.</br>
+Backend part is made using Python Django
+Frontend part is made using Next.js</br>
+I personally took part in the frontend team. 
+I made commits in the shapovalenko branch and in all the detached branches.
+</h3>
+
+<h1>Screenshots of what it looks like</h1>
 
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/a18b6ef7-6788-49c3-ba49-8f8b24dc0a0d)
 
@@ -11,3 +18,19 @@ The aim of the project is to create an online check-in platform for student dorm
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/88cb63db-242c-4510-9b42-c48fd4f4f7f1)
 
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/393f5596-60e8-48d5-9213-0786b2a6a09f)
+
+<h1>Installation</h1>
+
+Before you run the application make sure that the following steps are done:
+1. Make sure that python is installed and run the following commands in cmd:
+<code>
+py -m pip install Django==5.0.6
+py -m pip install django-cors-headers
+py -m pip install djangorestframework
+py -m pip install psycopg2
+py -m pip install schedule
+</code> 
+2. Make sure that Node.js and npm are installed
+
+
+Admin credentials: ns@example.com | a1234567
