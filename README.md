@@ -11,3 +11,6 @@ The aim of the project is to create an online check-in platform for student dorm
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/88cb63db-242c-4510-9b42-c48fd4f4f7f1)
 
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/393f5596-60e8-48d5-9213-0786b2a6a09f)
+
+
+Admin credentials: ns@example.com | a1234567
