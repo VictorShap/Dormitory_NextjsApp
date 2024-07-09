@@ -18,7 +18,8 @@ I made commits in the shapovalenko branch and in all the detached branches.
 
 ![image](https://github.com/VictorShap/Dormitory_NextjsApp/assets/36379638/d20a8658-00b1-43c2-a4b1-c77060ad4e4c)
 
-[!NOTE]  *The web site you can see on the screenshots was translated from Ukrainian into English via Google Translate extension
+>[!NOTE]
+>*The web site you can see on the screenshots was translated from Ukrainian into English via Google Translate extension
 
 <h1>Installation</h1>
 
