@@ -22,7 +22,7 @@ I made commits in the shapovalenko branch and in all the detached branches.
 <h1>Installation</h1>
 
 Before you run the application make sure that the following steps are done:
-1. Make sure that python is installed and run the following commands in cmd:
+1. Make sure that python is installed and run the following commands in cmd:</br>
 <code>py -m pip install Django==5.0.6
 py -m pip install django-cors-headers
 py -m pip install djangorestframework
@@ -36,10 +36,10 @@ py -m pip install schedule</code>
 
 1. Clone the repository
 2. Proceed to yourRepositoryFolder/back-end/dormitoryBackend
-3. Open cmd there and run the following command:
+3. Open cmd there and run the following command:</br>
 <code>py manage.py runserver</code>
 4. Proceed to yourRepositoryFolder/front-end
-5. Open cmd there and run the following commands:
+5. Open cmd there and run the following commands:</br>
 <code>npm install
 npm run dev</code>
 
