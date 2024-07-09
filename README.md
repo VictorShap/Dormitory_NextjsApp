@@ -1,6 +1,6 @@
 # Dormitory_project
 <h3>The aim of the project is to create an online check-in platform for a student dormitory.</br>
-Backend part is made using Python Django
+Backend part is made using Python Django</br>
 Frontend part is made using Next.js</br>
 I personally took part in the frontend team.</br> 
 I made commits in the shapovalenko branch and in all the detached branches.
