@@ -1,8 +1,8 @@
 # Dormitory_project
-<h3>The aim of the project is to create an online check-in platform for student dormitory.</br>
+<h3>The aim of the project is to create an online check-in platform for a student dormitory.</br>
 Backend part is made using Python Django
 Frontend part is made using Next.js</br>
-I personally took part in the frontend team. 
+I personally took part in the frontend team.</br> 
 I made commits in the shapovalenko branch and in all the detached branches.
 </h3>
 
@@ -32,5 +32,21 @@ py -m pip install schedule
 </code> 
 2. Make sure that Node.js and npm are installed
 
+<h2>Once you have completed the prerequisite steps, you can proceed to launch the application</h2>
+
+<h1>Run</h1>
+
+1. Clone the repository
+2. Proceed to yourRepositoryFolder/back-end/dormitoryBackend
+3. Open cmd there and run the following command:
+<code>
+py manage.py runserver
+</code>
+4. Proceed to yourRepositoryFolder/front-end
+5. Open cmd there and run the following commands:
+<code>
+npm install
+npm run dev
+</code>
 
 Admin credentials: ns@example.com | a1234567
