@@ -30,7 +30,7 @@ py -m pip install django-cors-headers
 py -m pip install djangorestframework
 py -m pip install psycopg2
 py -m pip install schedule</code> 
-2. Make sure that Node.js and npm are installed
+2. Make sure that Node.js and npm are installed(v20.14.0)
 
 <h2>Once you have completed the prerequisite steps, you can proceed to launch the application</h2>
 
